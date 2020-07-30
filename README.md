@@ -1,6 +1,7 @@
+
 # Data-driven Music Activity Analysis
 
-![LastFM_RYM](https://i.imgur.com/HhlkLb0.jpg | width=500)
+<img src=https://i.imgur.com/HhlkLb0.jpg width=450px>
 
 ## Introduction
 
